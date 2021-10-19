@@ -1,0 +1,34 @@
+/*691*/
+@media only screen and (max-width: 991px) {
+   
+    .colm{
+        float: left;
+        min-width: 24%;
+      }
+
+    .colmn{
+        float: left;
+        min-width: 40%;
+    }  
+
+    .marg{
+        margin-top: 20px;
+    }
+    .float{
+        float: left;
+    }
+  }
+
+  @media only screen and (max-width: 518px) {
+    .margin{
+        margin-left: 20px;
+    }
+  }
+
+  .shadow{
+      box-shadow:  10px 10px 10px #efefef;
+  }
+
+  
+
+  
