@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-search-filter/static/css/main.171dd428.chunk.css",
+    "main.js": "/react-search-filter/static/js/main.d90632fc.chunk.js",
+    "main.js.map": "/react-search-filter/static/js/main.d90632fc.chunk.js.map",
+    "runtime-main.js": "/react-search-filter/static/js/runtime-main.18174c68.js",
+    "runtime-main.js.map": "/react-search-filter/static/js/runtime-main.18174c68.js.map",
+    "static/css/2.764ce87f.chunk.css": "/react-search-filter/static/css/2.764ce87f.chunk.css",
+    "static/js/2.2195978a.chunk.js": "/react-search-filter/static/js/2.2195978a.chunk.js",
+    "static/js/2.2195978a.chunk.js.map": "/react-search-filter/static/js/2.2195978a.chunk.js.map",
+    "static/js/3.7d2e5351.chunk.js": "/react-search-filter/static/js/3.7d2e5351.chunk.js",
+    "static/js/3.7d2e5351.chunk.js.map": "/react-search-filter/static/js/3.7d2e5351.chunk.js.map",
+    "index.html": "/react-search-filter/index.html",
+    "static/css/2.764ce87f.chunk.css.map": "/react-search-filter/static/css/2.764ce87f.chunk.css.map",
+    "static/css/main.171dd428.chunk.css.map": "/react-search-filter/static/css/main.171dd428.chunk.css.map",
+    "static/js/2.2195978a.chunk.js.LICENSE.txt": "/react-search-filter/static/js/2.2195978a.chunk.js.LICENSE.txt",
+    "static/media/Nova SBE.d5198d11.png": "/react-search-filter/static/media/Nova SBE.d5198d11.png",
+    "static/media/all.css": "/react-search-filter/static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18174c68.js",
+    "static/css/2.764ce87f.chunk.css",
+    "static/js/2.2195978a.chunk.js",
+    "static/css/main.171dd428.chunk.css",
+    "static/js/main.d90632fc.chunk.js"
+  ]
+}
